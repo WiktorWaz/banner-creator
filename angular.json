@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "banner-creator"
+  "defaultProject": "banner-creator",
+  "cli": {
+    "analytics": "5fc1297e-af29-4b94-9139-90bf882b0f7d"
+  }
 }

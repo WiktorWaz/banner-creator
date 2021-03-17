@@ -1,1 +1,33 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: inherit;
+  
+  }
+  
+  html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+  
+  body {
+    text-align: center;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+  }
+  
+  section {
+    height: 100%
+  }
+  
+  main {
+    min-height: 100%;
+    display: grid;
+    grid-template-rows: 0fr 0fr auto;
+  }
+  
+  footer {
+    width: 100%;
+    text-align: center;
+    margin-top: auto;
+  }
